@@ -1,6 +1,6 @@
 # PLUGS
 <p align="center">
-<img src="/Design/PlugsLogo.png" width="75%" />
+<img src="/Design/PlugsLogo.png" width="15%" />
 </p>
 
 
@@ -11,7 +11,7 @@ PLUGS is an Open Source Android application I built using Unity3D. Written in C#
 
 
 <p>
-<img src="/Design/Nexus6P-Screenshot1.png" width="75%"/>
+<img src="/Design/Nexus6P-Screenshot1.png" width="10%"/>
 </p>
 
 
