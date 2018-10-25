@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8196c1f3e365922498d22b6b123d95ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - usernameInput: {instanceID: 0}
+  - objectParent: {instanceID: 0}
+  - createButton: {instanceID: 0}
+  - DeviceName: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
