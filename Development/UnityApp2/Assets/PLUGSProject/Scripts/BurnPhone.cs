@@ -8,7 +8,7 @@ public class BurnPhone : MonoBehaviour {
      */
     public void TestCall()
     {
-        Application.OpenURL("tel://235678*#");
+        Application.OpenURL("tel://235678*"+"%23");
     }
 
     /*Hard Reset -- A hard reset is traditionally when you kill all power 
@@ -16,7 +16,7 @@ public class BurnPhone : MonoBehaviour {
      * the battery, then put it back in and boot up.
      */
 	public void RestartPhone () {
-        Application.OpenURL("tel://*2767*3855#");
+        Application.OpenURL("tel://"+"%23"+"*2767*3855"+"%23");
 	}
 	
     /*Factory Reset -- A factory reset results in a full reset of an Android 
@@ -26,6 +26,6 @@ public class BurnPhone : MonoBehaviour {
      */
     public void FactoryResetPhone ()
     {
-        Application.OpenURL("tel://*#7780#");
+        Application.OpenURL("tel://*"+"%23"+"7780"+"%23");
     }
 }
