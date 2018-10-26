@@ -11,7 +11,7 @@ PLUGS is an Open Source Android application I built using Unity3D. Written in C#
 
 
 <p>
-<img src="/Design/Nexus6P-Screenshot1.png" width="20%"/>
+<img src="/Design/Nexus6P-Screenshot1.png" width="20%"/><img src="/Design/Nexus 5x-Screenshot1.png" width="20%"/><img src="/Design/Nexus 5x-Screenshot2.png" width="20%"/><img src="/Design/Nexus 5x-Screenshot3.png" width="20%"/><img src="/Design/Nexus 5x-Screenshot5.png" width="20%"/><img src="/Design/Nexus 6P-Screenshot1.png" width="20%"/><img src="/Design/Nexus 6P-Screenshot2.png" width="20%"/>
 </p>
 
 

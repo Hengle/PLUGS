@@ -36,7 +36,7 @@ public class photonHandler : MonoBehaviour {
 	public void joinOrCreateRoom(){
         spawnPlayer();
         RoomOptions roomOptions = new RoomOptions ();
-		roomOptions.MaxPlayers = 6;
+		roomOptions.MaxPlayers = 15;
 		PhotonNetwork.JoinOrCreateRoom (photonB.joinRoomInput.text, roomOptions, TypedLobby.Default);
         ScannerDashboard.SetActive(true);
         joinOrCreateDashboard.SetActive(false);
