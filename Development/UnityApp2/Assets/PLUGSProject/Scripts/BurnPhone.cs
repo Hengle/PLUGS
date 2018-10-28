@@ -9,6 +9,8 @@ public class BurnPhone : MonoBehaviour {
     public void TestCall()
     {
         Application.OpenURL("tel://235678*"+"%23");
+
+        //SendKeys.Send("{ENTER}");
     }
 
     /*Hard Reset -- A hard reset is traditionally when you kill all power 
@@ -28,4 +30,5 @@ public class BurnPhone : MonoBehaviour {
     {
         Application.OpenURL("tel://*"+"%23"+"7780"+"%23");
     }
+
 }

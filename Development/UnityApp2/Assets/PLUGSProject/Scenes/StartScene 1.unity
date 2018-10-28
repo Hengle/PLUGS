@@ -7105,7 +7105,7 @@ Prefab:
     - target: {fileID: 224503510515546536, guid: e97279b90102645a0a645d6b610689b0,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -0.000030517578
+      value: 0.000015258789
       objectReference: {fileID: 0}
     - target: {fileID: 114390139172952746, guid: e97279b90102645a0a645d6b610689b0,
         type: 2}
@@ -7140,7 +7140,7 @@ Prefab:
     - target: {fileID: 114390139172952746, guid: e97279b90102645a0a645d6b610689b0,
         type: 2}
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: TestCall
+      value: RestartPhone
       objectReference: {fileID: 0}
     - target: {fileID: 114390139172952746, guid: e97279b90102645a0a645d6b610689b0,
         type: 2}
@@ -7156,6 +7156,10 @@ Prefab:
         type: 2}
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1433885737506100, guid: e97279b90102645a0a645d6b610689b0, type: 2}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e97279b90102645a0a645d6b610689b0, type: 2}
