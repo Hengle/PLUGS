@@ -21,7 +21,14 @@ public class MainCanvasManager : MonoBehaviour
         get { return _hostDashboardCanvas; }
     }
 
-	private void Awake () 
+    [SerializeField]
+    private AlertPanelCanvas _alertPanelCanvas;
+    public AlertPanelCanvas AlertPanelCanvas
+    {
+        get { return _alertPanelCanvas; }
+    }
+
+    private void Awake () 
     {
         Instance = this;
 	}

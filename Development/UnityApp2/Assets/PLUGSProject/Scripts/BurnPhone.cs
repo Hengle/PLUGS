@@ -9,7 +9,6 @@ public class BurnPhone : MonoBehaviour {
     public void TestCall()
     {
         Application.OpenURL("tel://235678*"+"%23");
-
         //SendKeys.Send("{ENTER}");
     }
 

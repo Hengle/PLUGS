@@ -328,6 +328,7 @@ GameObject:
   - component: {fileID: 114766096483658374}
   - component: {fileID: 114266850224107898}
   - component: {fileID: 114114988714395014}
+  - component: {fileID: 114465209513777090}
   m_Layer: 5
   m_Name: Device_Parent
   m_TagString: Untagged
@@ -967,6 +968,24 @@ MonoBehaviour:
   - {fileID: 0}
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &114465209513777090
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1948680855637284}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cb9ca2b0229b4144aeed8d6af9a4c72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dayBackgroundColor: {r: 0, g: 0, b: 0, a: 0}
+  nightBackgroundColor: {r: 0, g: 0, b: 0, a: 0}
+  darkAmbient: {r: 0.1, g: 0.1, b: 0.1, a: 1}
+  lightAmbient: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+  Alert: {fileID: 1116893294297474}
+  Active: {fileID: 1922044903895812}
+  durationBetweenLightAlerts: 15
 --- !u!114 &114492196951524168
 MonoBehaviour:
   m_ObjectHideFlags: 1

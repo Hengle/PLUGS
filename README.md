@@ -16,7 +16,8 @@ PLUGS is an Open Source Android application I built using Unity3D. Written in C#
 
 
 
-Just Download the app, from the app store [here](https://play.google.com/store/apps/details?id=com.WizBang.PLUGS) or build to your device from Unity3d, enter a device name and choose to Host or Join a room.
+Just Download the app, from the app store [here](https://play.google.com/store/apps/details?id=com.WizBang.PLUGS) or build to your device from Unity3d (Assets/Project/PLUGSProject/Scenes/StartScene 1). Once loaded enter a device name and choose to Host or Join a room.
+
 
 If Hosting, you will have access to the Host Dashboard which displays all devices connected to your room. On the Host Dashboard, is an Alert panel which displays all alerts transmitted from the sensor devices. When the alerts are pressed, a dropdown will appear giving you options to interact with the alerting device. The Host Dashboard has a map displaying the location of each device when pressed the devices on the map will display the GPS location of the device. 
 
